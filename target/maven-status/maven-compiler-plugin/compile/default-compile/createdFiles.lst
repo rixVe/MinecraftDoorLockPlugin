@@ -1,0 +1,8 @@
+me\rixve\doorlock\commands\keyCommand.class
+me\rixve\doorlock\listeners\PlayerClickListener.class
+me\rixve\doorlock\ItemManager\ItemManager.class
+me\rixve\doorlock\DoorLock.class
+me\rixve\doorlock\commands\GetKeyCommand.class
+me\rixve\doorlock\commands\removeLockCommand.class
+me\rixve\doorlock\commands\CloseDoorsCommand.class
+me\rixve\doorlock\commands\RenameKeyCommand.class

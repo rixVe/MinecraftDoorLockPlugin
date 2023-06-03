@@ -1,0 +1,12 @@
+name: DoorLock
+version: '1'
+main: me.rixve.doorlock.DoorLock
+api-version: 1.19
+authors: [ rixVe ]
+description: you can now lock doors
+commands:
+  key:
+  getkey:
+  closeDoors:
+  removeLock:
+  renamekey:
